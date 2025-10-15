@@ -4,14 +4,14 @@
 ---
 ## Notas de hacking de los retos resueltos durante la competencia
 ---
-Nombre completo :DIEGO IGNACIO GARCIA DIAZ DE LEON
-Nombre Pioc: DiegoGDL
+#### Nombre completo :DIEGO IGNACIO GARCIA DIAZ DE LEON
+### Nombre Pioc: DiegoGDL
 
-Nombre completo :EDUAR HEREDIA LANDEROS
-Nombre pico	:eduar	
+#### Nombre completo :EDUAR HEREDIA LANDEROS
+### Nombre pico	:eduar	
 
-Nombre completo :LEX SAID GARCIA RODRIGUEZ
-Nombre pico :LexSaid
+#### Nombre completo :LEX SAID GARCIA RODRIGUEZ
+### Nombre pico :LexSaid
 
-Nombre completo: LUIS ADRIÁN RODRÍGUEZ MARTÍNEZ
-Nombre pico :larm416	
+#### Nombre completo: LUIS ADRIÁN RODRÍGUEZ MARTÍNEZ
+### Nombre pico :larm416	
