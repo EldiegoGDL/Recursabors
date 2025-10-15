@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Retos Resueltos/Input Injection 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Input Injection 1"
             }
           }
         ]
@@ -167,8 +167,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3be4f2a3dc288205",
+  "active": "de60ee5652485ef6",
   "lastOpenFiles": [
+    "README.md",
+    "Retos Resueltos/Input Injection 1.md",
     "Retos Resueltos",
     "Bienvenido.md"
   ]
